@@ -1,5 +1,5 @@
 
-# **CineSage: Your Personalized Cinema Advisor **
+# **CineSage: Your Personalized Cinema Advisor**
 
 CineSage is an advanced movie recommendation engine powered by machine learning. It helps users discover films based on their unique preferences by employing cutting-edge data processing techniques, feature engineering, and model training. The system also includes an intuitive web interface built with **Streamlit**.
 
